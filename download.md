@@ -1,8 +1,10 @@
 ---
 title: Downloads
-menus: header
----
+menu:
+  header:
+    weight: 1
 
+---
 # Downloads
 
 ## Ikyr Render Engine
