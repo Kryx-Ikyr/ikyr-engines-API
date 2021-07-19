@@ -22,7 +22,7 @@ title: Ikyr Engines
 email: kryx.mail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ikyr Engines provide multiple API to help you build your graphical application at different level, from render engine (Vulkan-based) to game engine.
-baseurl: "/ikyr-engines-API" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "ikyr-engines.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  Kryx-Ikyr
