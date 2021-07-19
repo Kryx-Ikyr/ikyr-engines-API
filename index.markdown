@@ -4,7 +4,10 @@
 
 layout: home
 title: Home
-menus: Test
+menus:
+  header:
+    title: test Titre
+    weight: 1
 ---
 
 Ikyr contains multiple API to help you build your application at different level. You can use Ikyr Render Engine to use a multi-plateform Vulkan-based render engine, or Ikyr Game Engine to use a prebuilt game-engine for 2d or 3d games.
