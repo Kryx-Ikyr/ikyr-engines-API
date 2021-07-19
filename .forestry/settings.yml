@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: documentation/ikyr-game-engine
+  label: Documentation-IGE
+  create: all
+  match: "**/*"
+- type: directory
   path: documentation/ikyr-render-engine
   label: Documentation-IRE
   create: all
