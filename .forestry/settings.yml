@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: documentation/ire
+  label: Documentation-IRE
+  create: all
+  match: "**/*"
+- type: directory
   path: download
   label: Download
   create: all
