@@ -4,3 +4,4 @@ hide_body: false
 fields: []
 pages:
 - documentation/documentation.md
+- documentation/ikyr-render-engine/ikyr-render-engine.md
