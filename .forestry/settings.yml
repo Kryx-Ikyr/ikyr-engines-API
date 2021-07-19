@@ -8,7 +8,7 @@ sections:
   path: download
   label: Download
   create: all
-  match: "**/download/*"
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
