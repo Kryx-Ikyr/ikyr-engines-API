@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: documentation/ire
+  path: documentation/ikyr-render-engine
   label: Documentation-IRE
   create: all
   match: "**/*"
