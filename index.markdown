@@ -12,7 +12,7 @@ Ikyr contains multiple API to help you build your application at different level
 
 You can download APIs here:
 
-[Ikyr Render Engine](/download#ire)
+[Ikyr Render Engine](/test#ire)
 
 [Ikyr Game Engine](https://ikyr-engines.com/download#ige)
 
