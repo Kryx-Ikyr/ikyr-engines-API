@@ -41,7 +41,33 @@ module.exports = {
   ],
 
   ireSidebar: [
-    'ikyr-render-engine'
+    'ikyr-render-engine',
+    {
+      type: 'category',
+      label: 'First steps',
+      collapsed: false,
+      items: [
+        'ire/installation',
+        'ire/hello_world',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Tutorials',
+      collapsed: false,
+      items: [
+        'ire/explain_hello_world',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Documentation',
+      collapsed: false,
+      items: [
+        'ire/doc/context',
+        'ire/doc/z-order',
+      ],
+    },
   ],
   
   igeSidebar: [
