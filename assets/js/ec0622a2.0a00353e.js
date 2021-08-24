@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkikyr_engines=self.webpackChunkikyr_engines||[]).push([[418],{4317:function(s){s.exports=JSON.parse('{"allTagsPath":"/ikyr-engines/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/ikyr-engines/blog/tags/docusaurus"}')}}]);

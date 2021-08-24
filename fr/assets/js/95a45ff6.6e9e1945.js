@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkikyr_engines=self.webpackChunkikyr_engines||[]).push([[795],{4387:function(e){e.exports=JSON.parse('{"allTagsPath":"/ikyr-engines/fr/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/ikyr-engines/fr/blog/tags/hola"}')}}]);

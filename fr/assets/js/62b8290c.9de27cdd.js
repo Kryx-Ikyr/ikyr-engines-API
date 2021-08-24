@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkikyr_engines=self.webpackChunkikyr_engines||[]).push([[281],{7673:function(e){e.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/fr/blog/tags/facebook"}')}}]);

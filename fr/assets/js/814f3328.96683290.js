@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkikyr_engines=self.webpackChunkikyr_engines||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/ikyr-engines/fr/blog/welcome"},{"title":"Hello","permalink":"/ikyr-engines/fr/blog/hello-world"},{"title":"Hola","permalink":"/ikyr-engines/fr/blog/hola"}]}')}}]);
