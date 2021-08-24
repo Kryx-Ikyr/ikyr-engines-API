@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Ikyr Engines',
   tagline: 'Use the right engine for your abstract level',
-  url: 'https://Kryx-Ikyr.github.io',
-  baseUrl: '/ikyr-engines/',
+  url: 'https://ikyr-engines.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
