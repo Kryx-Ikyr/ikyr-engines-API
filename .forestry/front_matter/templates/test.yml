@@ -1,9 +1,0 @@
----
-label: test
-hide_body: false
-fields: []
-pages:
-- documentation/documentation.md
-- documentation/ikyr-game-engine/ikyr-game-engine.md
-- documentation/ikyr-render-engine/ikyr-render-engine.md
-- documentation/ikyr-render-engine/ikyr-render-engine.md
