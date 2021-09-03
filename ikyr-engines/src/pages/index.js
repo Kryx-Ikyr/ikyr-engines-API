@@ -16,7 +16,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/ikyr-render-engines">
+            to="/docs/ikyr-render-engine">
             Ikyr Render Engine - Hello World !
           </Link>
         </div>
